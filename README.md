@@ -10,9 +10,6 @@
   # 5.Press F5 in the game
 
 
-# Player:
-
- # The names
  
 # 2D box distance
  
